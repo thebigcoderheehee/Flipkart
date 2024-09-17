@@ -1,0 +1,17 @@
+.dropdown-menu{
+    width: 250px;
+}
+.signup{
+    text-decoration: none;
+    color: blue;
+    font-weight: 700;
+}
+body{
+    padding: 5px;
+}
+.Electronics{
+    padding: 20px;
+}
+li{
+    list-style-type: none;
+}
